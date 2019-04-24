@@ -1,0 +1,10 @@
+C:\Users\Олег\source\repos\Console01\QuadEquationWinForm\bin\Debug\QuadEquationWinForm.exe.config
+C:\Users\Олег\source\repos\Console01\QuadEquationWinForm\bin\Debug\QuadEquationWinForm.exe
+C:\Users\Олег\source\repos\Console01\QuadEquationWinForm\bin\Debug\QuadEquationWinForm.pdb
+C:\Users\Олег\source\repos\Console01\QuadEquationWinForm\obj\Debug\QuadEquationWinForm.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\Console01\QuadEquationWinForm\obj\Debug\QuadEquationWinForm.Form1.resources
+C:\Users\Олег\source\repos\Console01\QuadEquationWinForm\obj\Debug\QuadEquationWinForm.Properties.Resources.resources
+C:\Users\Олег\source\repos\Console01\QuadEquationWinForm\obj\Debug\QuadEquationWinForm.csproj.GenerateResource.cache
+C:\Users\Олег\source\repos\Console01\QuadEquationWinForm\obj\Debug\QuadEquationWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\repos\Console01\QuadEquationWinForm\obj\Debug\QuadEquationWinForm.exe
+C:\Users\Олег\source\repos\Console01\QuadEquationWinForm\obj\Debug\QuadEquationWinForm.pdb

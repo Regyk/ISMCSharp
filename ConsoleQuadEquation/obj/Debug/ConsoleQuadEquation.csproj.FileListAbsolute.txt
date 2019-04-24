@@ -1,0 +1,6 @@
+C:\Users\Олег\source\repos\Console01\ConsoleQuadEquation\bin\Debug\ConsoleQuadEquation.exe.config
+C:\Users\Олег\source\repos\Console01\ConsoleQuadEquation\bin\Debug\ConsoleQuadEquation.exe
+C:\Users\Олег\source\repos\Console01\ConsoleQuadEquation\bin\Debug\ConsoleQuadEquation.pdb
+C:\Users\Олег\source\repos\Console01\ConsoleQuadEquation\obj\Debug\ConsoleQuadEquation.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\repos\Console01\ConsoleQuadEquation\obj\Debug\ConsoleQuadEquation.exe
+C:\Users\Олег\source\repos\Console01\ConsoleQuadEquation\obj\Debug\ConsoleQuadEquation.pdb
