@@ -1,0 +1,6 @@
+C:\Users\Олег\source\repos\ISMCSharp\OOPLib2\bin\Debug\OOPLib2.dll
+C:\Users\Олег\source\repos\ISMCSharp\OOPLib2\bin\Debug\OOPLib2.pdb
+C:\Users\Олег\source\repos\ISMCSharp\OOPLib2\obj\Debug\OOPLib2.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\ISMCSharp\OOPLib2\obj\Debug\OOPLib2.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\repos\ISMCSharp\OOPLib2\obj\Debug\OOPLib2.dll
+C:\Users\Олег\source\repos\ISMCSharp\OOPLib2\obj\Debug\OOPLib2.pdb

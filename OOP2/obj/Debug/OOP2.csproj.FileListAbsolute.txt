@@ -1,0 +1,10 @@
+C:\Users\Олег\source\repos\ISMCSharp\OOP2\bin\Debug\OOP2.exe.config
+C:\Users\Олег\source\repos\ISMCSharp\OOP2\bin\Debug\OOP2.exe
+C:\Users\Олег\source\repos\ISMCSharp\OOP2\bin\Debug\OOP2.pdb
+C:\Users\Олег\source\repos\ISMCSharp\OOP2\bin\Debug\OOPLib2.dll
+C:\Users\Олег\source\repos\ISMCSharp\OOP2\bin\Debug\OOPLib2.pdb
+C:\Users\Олег\source\repos\ISMCSharp\OOP2\obj\Debug\OOP2.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\ISMCSharp\OOP2\obj\Debug\OOP2.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\repos\ISMCSharp\OOP2\obj\Debug\OOP2.csproj.CopyComplete
+C:\Users\Олег\source\repos\ISMCSharp\OOP2\obj\Debug\OOP2.exe
+C:\Users\Олег\source\repos\ISMCSharp\OOP2\obj\Debug\OOP2.pdb
